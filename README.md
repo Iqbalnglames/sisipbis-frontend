@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## library yang dibutuhkan untuk melengkapi repository ini 
 
-`react-icons` dan `react-router-dom`
+### `react-icons` dan `react-router-dom`
